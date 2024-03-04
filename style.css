@@ -1,0 +1,21 @@
+img{
+    object-fit: cover;
+    width: 100%;
+    max-width: 620px;
+    max-height: 608px;
+}
+
+.owl-carousel{
+    display: flex;
+    justify-content: center;
+}
+.images{
+    margin: 50px 13px 10px 13px;
+}
+.owl-nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: 80px;
+    color: #282b2b;
+}
